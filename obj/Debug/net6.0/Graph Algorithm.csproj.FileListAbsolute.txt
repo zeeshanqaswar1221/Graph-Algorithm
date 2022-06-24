@@ -1,0 +1,15 @@
+D:\Learning\Graph Algorithm\bin\Debug\net6.0\Graph Algorithm.exe
+D:\Learning\Graph Algorithm\bin\Debug\net6.0\Graph Algorithm.deps.json
+D:\Learning\Graph Algorithm\bin\Debug\net6.0\Graph Algorithm.runtimeconfig.json
+D:\Learning\Graph Algorithm\bin\Debug\net6.0\Graph Algorithm.dll
+D:\Learning\Graph Algorithm\bin\Debug\net6.0\Graph Algorithm.pdb
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.csproj.AssemblyReference.cache
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.AssemblyInfoInputs.cache
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.AssemblyInfo.cs
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.csproj.CoreCompileInputs.cache
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.dll
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\refint\Graph Algorithm.dll
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.pdb
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\Graph Algorithm.genruntimeconfig.cache
+D:\Learning\Graph Algorithm\obj\Debug\net6.0\ref\Graph Algorithm.dll
